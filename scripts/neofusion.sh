@@ -37,11 +37,11 @@ main()
   show_empty_plugins=$(get_tmux_option "@neofusion-show-empty-plugins" true)
 
   # neofusion Color Pallette
-  white='#e0d9c7'
+  white='#06364B'
   gray='#06364b'
   dark_gray='#06364B'
   light_purple='#ec30ac'
-  dark_purple='#050539'
+  dark_purple='#87fa61'
   cyan='#66def9'
   green='#fa7a61'
   orange='#fa7a61'
@@ -52,7 +52,7 @@ main()
   # Handle left icon configuration
   case $show_left_icon in
     smiley)
-      left_icon="";;
+      left_icon="";;
     session)
       left_icon="#S";;
     window)

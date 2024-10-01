@@ -37,7 +37,7 @@ main()
   show_empty_plugins=$(get_tmux_option "@neofusion-show-empty-plugins" true)
 
   # neofusion Color Pallette
-  white='#06364B'
+  white='#070f1c'
   gray='#06364b'
   dark_gray='#06364B'
   light_purple='#06364B'

@@ -38,12 +38,12 @@ main()
 
   # neofusion Color Pallette
   white='#e0d9c7'
-  gray='#22536f'
+  gray='#06364b'
   dark_gray='#06364B'
   light_purple='#ec30ac'
-  dark_purple='#5d0941'
+  dark_purple='#050539'
   cyan='#66def9'
-  green='#35b5ff'
+  green='#fa7a61'
   orange='#fa7a61'
   red='#fd5e3a'
   pink='#ff79c6'
@@ -52,7 +52,7 @@ main()
   # Handle left icon configuration
   case $show_left_icon in
     smiley)
-      left_icon="☺";;
+      left_icon="";;
     session)
       left_icon="#S";;
     window)

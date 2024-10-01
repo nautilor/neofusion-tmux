@@ -40,7 +40,7 @@ main()
   white='#06364B'
   gray='#06364b'
   dark_gray='#06364B'
-  light_purple='#ec30ac'
+  light_purple='#06364B'
   dark_purple='#87fa61'
   cyan='#66def9'
   green='#fa7a61'
